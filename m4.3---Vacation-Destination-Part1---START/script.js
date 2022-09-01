@@ -13,6 +13,7 @@ function handleFormSubmit(event) {
     var destPhoto = event.target.elements['photo'].value;
     var destDesc = event.target.elements['description'].value;
 
+    // remove all user content after grapping its values
     for (var i = 0; i < detailsForm.length; i++) {
         detailsForm.elements[i].value = "";
     }
@@ -35,6 +36,7 @@ function createDestinationCard(name, location, photoURL, description) {
     var card = document.createElement('div');
     card.className = 'card';
 
+    //IMAGE (NOt required)
     var img = document.createElement('img');
     img.setAttribute('alt', name);
 
@@ -47,32 +49,38 @@ function createDestinationCard(name, location, photoURL, description) {
         img.setAttribute('src', photoURL);
     }
 
-    card.appendChild(img)
+    card.appendChild(img); //<===========================APPEND=========================
 
     var cardBody = document.createElement('div');
     cardBody.className = 'card-body';
 
+    //TITLE
     var cardTitle = document.createElement('h3');
     cardTitle.innerText = name;
-    cardBody.appendChild(cardTitle);
+    cardBody.appendChild(cardTitle); //<==================APPEND=======================
 
+    //LOCATION
     var cardSubtitle = document.createElement('h4');
     cardSubtitle.innerText = location;
-    cardBody.appendChild(cardSubtitle);
+    cardBody.appendChild(cardSubtitle); //<===============APPEND=====================
 
+    //DESCRIPTION (NOt required)
     if (description.length !== 0) {
         var cardText = document.createElement('p');
         cardText.className = 'card-text';
         cardText.innerText = description;
-        cardBody.appendChild(cardText);
+        cardBody.appendChild(cardText); //<===============APPEND======================
     }
 
+    //REMPVE BUTTON
     var cardDelteBtn = document.createElement('button');
     cardDelteBtn.innerText = 'Remove';
 
     cardDelteBtn.addEventListener('click', removeDestination);
-    cardBody.appendChild(cardDelteBtn);
+    cardBody.appendChild(cardDelteBtn); //<=======================APPEND==============
 
+
+    // APPEND TO THE MAIN CARD
     card.appendChild(cardBody);
     return card;
 
