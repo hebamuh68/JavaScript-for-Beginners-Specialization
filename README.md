@@ -21,3 +21,6 @@
 
 
 2. ### **Course 2: Animation with JavaScript and jQ**
+
+   1. [**Folding Sidebar Menus with jQuery**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/Folding%20Sidebar%20Menus%20with%20jQuery)
+   2. **Slides show with cross fade effect**
