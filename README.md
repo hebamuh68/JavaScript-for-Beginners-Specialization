@@ -20,3 +20,4 @@
    [Vacation-Destination](https://user-images.githubusercontent.com/69214737/187045035-0debc0b1-978b-4ede-8f38-f3759424b78f.webm)
 
 
+2. ### **Course 2: Animation with JavaScript and jQ**
