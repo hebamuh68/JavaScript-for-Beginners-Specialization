@@ -27,3 +27,5 @@
    3. [**jQuery-Animation-START**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/jQuery-Animation-START)
    4. [**Tabbed Interface Using jQuery**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/Query-Tabs-Start)
    5. [**Tabbed Interface Using JS**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/JS-Tabs-Start)
+   6. [**jQuery Image Slider**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/jQuery%20Image%20Slider)
+
