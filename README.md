@@ -1,4 +1,4 @@
-# Welcome to JavaScript-for-Beginners-Specialization :ghost:	
+# Welcome to JavaScript for Beginners Specialization :ghost:	
 
 1. ### **Course 1: JavaScript Basics**
 
