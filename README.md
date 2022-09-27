@@ -1,5 +1,7 @@
 # Welcome to JavaScript for Beginners Specialization :ghost:	
 
+- [Certificates](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/Certificates)
+
 1. ### **Course 1: JavaScript Basics**
 
    1. [**Simple Slides show**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/m3.1---SlideShowStart)
