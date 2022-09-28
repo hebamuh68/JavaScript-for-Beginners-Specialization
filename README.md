@@ -31,3 +31,9 @@
    5. [**Tabbed Interface Using JS**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/JS-Tabs-Start)
    6. [**jQuery Image Slider**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/jQuery%20Image%20Slider)
 
+
+3. ### **Course 3: Interactivity with JavaScript and jQuery**
+   1.  [**FlexsliderBasic-Start**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/FlexsliderBasic-Start)
+   [70efd8a4-fab5-42b0-aaf0-984a104a00e2.webm](https://user-images.githubusercontent.com/69214737/192886912-e4e1fad3-5527-44d5-bac5-b0442e1702ba.webm)
+   
+   3.  [**Advanced FlexSlider**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/Advanced%20FlexSlider)
