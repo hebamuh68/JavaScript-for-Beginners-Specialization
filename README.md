@@ -33,5 +33,8 @@
 
 
 3. ### **Course 3: Interactivity with JavaScript and jQuery**
-   1.  [**FlexsliderBasic-Start**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/FlexsliderBasic-Start)   
+   1.  [**FlexsliderBasic-Start**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/FlexsliderBasic-Start)  
+
+[screenity (1).webm](https://user-images.githubusercontent.com/69214737/192888904-3cd77c97-07b8-4a66-a504-9dc271f97384.webm)
+
    2.  [**Advanced FlexSlider**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/Advanced%20FlexSlider)
