@@ -38,4 +38,4 @@
 [screenity (1).webm](https://user-images.githubusercontent.com/69214737/192888904-3cd77c97-07b8-4a66-a504-9dc271f97384.webm)
 
    2.  [**Advanced FlexSlider**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/Advanced%20FlexSlider)
-   3.  [**jQuery-Scroll-Effects-START**]()
+   3.  [**jQuery-Scroll-Effects-START**](https://github.com/hebamuh68/JavaScript-for-Beginners-Specialization/tree/main/jQuery-Scroll-Effects-START)
